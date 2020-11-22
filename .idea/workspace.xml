@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1edb6ebd-4258-489c-a535-eee4889b65b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="yh9l79mf4xcaxspf" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1kE4y1UMinxvOHDQxVdOffyFp93" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/model" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/" />
+      <recent name="$PROJECT_DIR$/res/fonts" />
+      <recent name="$PROJECT_DIR$/res/images" />
+      <recent name="$PROJECT_DIR$/ios/Runner" />
+      <recent name="$PROJECT_DIR$/lib/cognitiveFaceServices" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/model" />
+      <recent name="$PROJECT_DIR$/res/fonts" />
+      <recent name="$PROJECT_DIR$/res/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1edb6ebd-4258-489c-a535-eee4889b65b9" name="Default Changelist" comment="" />
+      <created>1605252667665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605252667665</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Set up base project for Face Scanner App [ 11/13/2020 1:30 AM ]">
+      <created>1605252778304</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605252778305</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Set up base project for Face Scanner App [ 11/13/2020 1:30 AM ]">
+      <created>1605253304420</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605253304420</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Camera Page, new fonts [ 11/13/2020 2:00 AM ]">
+      <created>1605254359685</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605254359685</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added working login page, splash page, welcome page.&#10;Added UI dashboard page.&#10;Added demo face recognition using google vision and cognitive face api [ 11/15/2020 5:40 PM ]">
+      <created>1605483618793</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605483618793</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Completed all UI pages for Minimum Viable Product of the Face Scanner [ 11/16/2020 10:40 PM ]">
+      <created>1605587902516</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605587902516</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Completed all UI pages for Minimum Viable Product of the Face Scanner [ 11/16/2020 10:40 PM ]">
+      <created>1605588058382</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605588058382</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Completed all UI pages for Minimum Viable Product of the Face Scanner [ 11/16/2020 10:40 PM ]">
+      <created>1606014445005</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606014445005</updated>
+    </task>
+    <task id="LOCAL-00008" summary="QPVC Warehouse manager app demo">
+      <created>1606014649803</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606014649803</updated>
+    </task>
+    <task id="LOCAL-00009" summary="QPVC Warehouse manager app demo">
+      <created>1606016357122</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606016357123</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Set up base project for Face Scanner App [ 11/13/2020 1:30 AM ]" />
+    <MESSAGE value="Add Camera Page, new fonts [ 11/13/2020 2:00 AM ]" />
+    <MESSAGE value="Added working login page, splash page, welcome page.&#10;Added UI dashboard page.&#10;Added demo face recognition using google vision and cognitive face api [ 11/15/2020 5:40 PM ]" />
+    <MESSAGE value="Completed all UI pages for Minimum Viable Product of the Face Scanner [ 11/16/2020 10:40 PM ]" />
+    <MESSAGE value="QPVC Warehouse manager app demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="QPVC Warehouse manager app demo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1468" y="198" key="#Console" timestamp="1605407998875">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="1468" y="198" key="#Console/2560.203.1440.877/0.23.2560.1057/-2560.23.2560.1057@0.23.2560.1057" timestamp="1605407998875" />
+    <state x="1022" y="298" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605394680832">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="1022" y="298" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2560.203.1440.877/0.23.2560.1057/-2560.23.2560.1057@0.23.2560.1057" timestamp="1605394680832" />
+    <state x="-959" y="126" key="AndroidProcessChooserDialog" timestamp="1605597413742">
+      <screen x="-2560" y="-155" width="2560" height="1055" />
+    </state>
+    <state x="-959" y="126" key="AndroidProcessChooserDialog/-5120.-155.2560.1055/0.25.1440.875/-2560.-155.2560.1055@-2560.-155.2560.1055" timestamp="1605597413742" />
+    <state x="1601" y="305" key="AndroidProcessChooserDialog/2560.203.1440.877/0.23.2560.1057/-2560.23.2560.1057@0.23.2560.1057" timestamp="1605402407006" />
+    <state x="-1406" y="-155" width="956" height="1057" key="CommitChangelistDialog2" timestamp="1606016356865">
+      <screen x="-2560" y="-155" width="2560" height="1055" />
+    </state>
+    <state x="-1406" y="-155" key="CommitChangelistDialog2/-5120.-155.2560.1055/0.25.1440.875/-2560.-155.2560.1055@-2560.-155.2560.1055" timestamp="1606016356865" />
+    <state x="1154" y="23" width="956" height="1057" key="CommitChangelistDialog2/2560.203.1440.877/0.23.2560.1057/-2560.23.2560.1057@0.23.2560.1057" timestamp="1605254359495" />
+    <state width="1080" height="791" key="GridCell.Tab.0.bottom" timestamp="1606016441813">
+      <screen x="-2560" y="-155" width="2560" height="1055" />
+    </state>
+    <state width="756" height="531" key="GridCell.Tab.0.bottom/-2560.-155.2560.1055/0.25.1440.875/-5120.-155.2560.1055@-2560.-155.2560.1055" timestamp="1605822652953" />
+    <state width="1123" height="705" key="GridCell.Tab.0.bottom/-2560.25.2560.1055/2560.205.1440.875/0.25.2560.1055@0.25.2560.1055" timestamp="1605472415476" />
+    <state width="1080" height="791" key="GridCell.Tab.0.bottom/-5120.-155.2560.1055/0.25.1440.875/-2560.-155.2560.1055@-2560.-155.2560.1055" timestamp="1606016441813" />
+    <state width="1594" height="59" key="GridCell.Tab.0.bottom/-5120.-155.2560.1055/0.25.1440.875/-2560.-155.2560.1055@-5120.-155.2560.1055" timestamp="1605942472172" />
+    <state width="756" height="495" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1605910528647" />
+    <state width="1123" height="708" key="GridCell.Tab.0.bottom/2560.203.1440.877/0.23.2560.1057/-2560.23.2560.1057@0.23.2560.1057" timestamp="1605464907107" />
+    <state width="1080" height="791" key="GridCell.Tab.0.center" timestamp="1606016441812">
+      <screen x="-2560" y="-155" width="2560" height="1055" />
+    </state>
+    <state width="756" height="531" key="GridCell.Tab.0.center/-2560.-155.2560.1055/0.25.1440.875/-5120.-155.2560.1055@-2560.-155.2560.1055" timestamp="1605822652953" />
+    <state width="1123" height="705" key="GridCell.Tab.0.center/-2560.25.2560.1055/2560.205.1440.875/0.25.2560.1055@0.25.2560.1055" timestamp="1605472415475" />
+    <state width="1080" height="791" key="GridCell.Tab.0.center/-5120.-155.2560.1055/0.25.1440.875/-2560.-155.2560.1055@-2560.-155.2560.1055" timestamp="1606016441812" />
+    <state width="1594" height="59" key="GridCell.Tab.0.center/-5120.-155.2560.1055/0.25.1440.875/-2560.-155.2560.1055@-5120.-155.2560.1055" timestamp="1605942472171" />
+    <state width="756" height="495" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1605910528647" />
+    <state width="1123" height="708" key="GridCell.Tab.0.center/2560.203.1440.877/0.23.2560.1057/-2560.23.2560.1057@0.23.2560.1057" timestamp="1605464907107" />
+    <state width="1080" height="791" key="GridCell.Tab.0.left" timestamp="1606016441812">
+      <screen x="-2560" y="-155" width="2560" height="1055" />
+    </state>
+    <state width="756" height="531" key="GridCell.Tab.0.left/-2560.-155.2560.1055/0.25.1440.875/-5120.-155.2560.1055@-2560.-155.2560.1055" timestamp="1605822652953" />
+    <state width="1123" height="705" key="GridCell.Tab.0.left/-2560.25.2560.1055/2560.205.1440.875/0.25.2560.1055@0.25.2560.1055" timestamp="1605472415473" />
+    <state width="1080" height="791" key="GridCell.Tab.0.left/-5120.-155.2560.1055/0.25.1440.875/-2560.-155.2560.1055@-2560.-155.2560.1055" timestamp="1606016441812" />
+    <state width="1594" height="59" key="GridCell.Tab.0.left/-5120.-155.2560.1055/0.25.1440.875/-2560.-155.2560.1055@-5120.-155.2560.1055" timestamp="1605942472170" />
+    <state width="756" height="495" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1605910528646" />
+    <state width="1123" height="708" key="GridCell.Tab.0.left/2560.203.1440.877/0.23.2560.1057/-2560.23.2560.1057@0.23.2560.1057" timestamp="1605464907107" />
+    <state width="1080" height="791" key="GridCell.Tab.0.right" timestamp="1606016441812">
+      <screen x="-2560" y="-155" width="2560" height="1055" />
+    </state>
+    <state width="756" height="531" key="GridCell.Tab.0.right/-2560.-155.2560.1055/0.25.1440.875/-5120.-155.2560.1055@-2560.-155.2560.1055" timestamp="1605822652953" />
+    <state width="1123" height="705" key="GridCell.Tab.0.right/-2560.25.2560.1055/2560.205.1440.875/0.25.2560.1055@0.25.2560.1055" timestamp="1605472415476" />
+    <state width="1080" height="791" key="GridCell.Tab.0.right/-5120.-155.2560.1055/0.25.1440.875/-2560.-155.2560.1055@-2560.-155.2560.1055" timestamp="1606016441812" />
+    <state width="1594" height="59" key="GridCell.Tab.0.right/-5120.-155.2560.1055/0.25.1440.875/-2560.-155.2560.1055@-5120.-155.2560.1055" timestamp="1605942472172" />
+    <state width="756" height="495" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1605910528647" />
+    <state width="1123" height="708" key="GridCell.Tab.0.right/2560.203.1440.877/0.23.2560.1057/-2560.23.2560.1057@0.23.2560.1057" timestamp="1605464907107" />
+    <state x="1318" y="277" width="590" height="554" key="MultipleFileMergeDialog" timestamp="1605253251178">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="1318" y="277" width="590" height="554" key="MultipleFileMergeDialog/2560.203.1440.877/0.23.2560.1057/-2560.23.2560.1057@0.23.2560.1057" timestamp="1605253251178" />
+    <state width="530" height="445" key="SwitcherDM" timestamp="1605582693965">
+      <screen x="-2560" y="-155" width="2560" height="1055" />
+    </state>
+    <state width="530" height="445" key="SwitcherDM/-5120.-155.2560.1055/0.25.1440.875/-2560.-155.2560.1055@-2560.-155.2560.1055" timestamp="1605582693965" />
+    <state x="-1316" y="114" key="Vcs.Push.Dialog.v2" timestamp="1606014673636">
+      <screen x="-2560" y="-155" width="2560" height="1055" />
+    </state>
+    <state x="-1316" y="114" key="Vcs.Push.Dialog.v2/-5120.-155.2560.1055/0.25.1440.875/-2560.-155.2560.1055@-2560.-155.2560.1055" timestamp="1606014673636" />
+    <state x="1244" y="293" key="Vcs.Push.Dialog.v2/2560.203.1440.877/0.23.2560.1057/-2560.23.2560.1057@0.23.2560.1057" timestamp="1605254374837" />
+    <state x="37" y="106" width="921" height="676" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1605904714660">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="-2494" y="-57" width="1637" height="814" key="com.android.tools.idea.avdmanager.AvdListDialog/-2560.-155.2560.1055/0.25.1440.875/-5120.-155.2560.1055@-2560.-155.2560.1055" timestamp="1605819269511" />
+    <state x="658" y="127" width="1637" height="814" key="com.android.tools.idea.avdmanager.AvdListDialog/-2560.25.2560.1055/2560.205.1440.875/0.25.2560.1055@0.25.2560.1055" timestamp="1605471703140" />
+    <state x="-4436" y="-19" width="1637" height="814" key="com.android.tools.idea.avdmanager.AvdListDialog/-5120.-155.2560.1055/0.25.1440.875/-2560.-155.2560.1055@-2560.-155.2560.1055" timestamp="1605580941004" />
+    <state x="37" y="106" width="921" height="676" key="com.android.tools.idea.avdmanager.AvdListDialog/0.25.1440.875@0.25.1440.875" timestamp="1605904714660" />
+    <state x="658" y="125" width="1637" height="815" key="com.android.tools.idea.avdmanager.AvdListDialog/2560.203.1440.877/0.23.2560.1057/-2560.23.2560.1057@0.23.2560.1057" timestamp="1605418489184" />
+    <state x="-1136" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606014785597">
+      <screen x="-2560" y="-155" width="2560" height="1055" />
+    </state>
+    <state x="-1136" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-5120.-155.2560.1055/0.25.1440.875/-2560.-155.2560.1055@-2560.-155.2560.1055" timestamp="1606014785597" />
+    <state x="1424" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/2560.203.1440.877/0.23.2560.1057/-2560.23.2560.1057@0.23.2560.1057" timestamp="1605253242005" />
+    <state x="1137" y="352" key="git4idea.merge.GitPullDialog" timestamp="1605253283169">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="1137" y="352" key="git4idea.merge.GitPullDialog/2560.203.1440.877/0.23.2560.1057/-2560.23.2560.1057@0.23.2560.1057" timestamp="1605253283169" />
+    <state x="1390" y="425" key="git4idea.rebase.GitRebaseDialog" timestamp="1605252841909">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="1390" y="425" key="git4idea.rebase.GitRebaseDialog/2560.203.1440.877/0.23.2560.1057/-2560.23.2560.1057@0.23.2560.1057" timestamp="1605252841909" />
+    <state x="1330" y="456" key="git4idea.ui.GitResetDialog" timestamp="1605252998612">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="1330" y="456" key="git4idea.ui.GitResetDialog/2560.203.1440.877/0.23.2560.1057/-2560.23.2560.1057@0.23.2560.1057" timestamp="1605252998612" />
+    <state x="-1630" y="76" width="670" height="676" key="search.everywhere.popup" timestamp="1606016283921">
+      <screen x="-2560" y="-155" width="2560" height="1055" />
+    </state>
+    <state x="-1630" y="76" width="670" height="676" key="search.everywhere.popup/-5120.-155.2560.1055/0.25.1440.875/-2560.-155.2560.1055@-2560.-155.2560.1055" timestamp="1606016283921" />
+  </component>
+</project>
